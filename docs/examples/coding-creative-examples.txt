@@ -1,21 +1,21 @@
 # UTF-8 supported.
 
-name = Coding Creative Examples
+name = Coding Creative
 authorList = [Giles Dring](https://dringtech.com/)
 url = http://coding-creative.dringtech.com/
 category = Tutorial
-sentence = A set of sketches for each lesson in the Coding Creative workshop.
+sentence = Example sketches for each lesson in the Coding Creative workshop.
 # paragraph =
 
 # A version number that increments once with each release. This is used to
 # compare different versions of the same examples-package, and check if an update is
 # available. You should think of it as a counter, counting the total number of
 # releases you've had.
-version = 1  # This must be parsable as an int
+version = 2  # This must be parsable as an int
 
 # The version as the user will see it. If blank, the version attribute will be
 # used here.
-prettyVersion = 1.0.0  # This is treated as a String
+prettyVersion = 1.0.1  # This is treated as a String
 
 # The min and max revision of Processing compatible with your examples-package.
 # Note that these fields use the revision and not the version of Processing, 
